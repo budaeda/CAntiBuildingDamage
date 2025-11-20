@@ -1,0 +1,17 @@
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\CrestAntiDamage.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\CrestAntiDamage.pdb
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\Assembly-CSharp.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\Rocket.API.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\Rocket.Core.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\Rocket.Unturned.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\SDG.NetTransport.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\SystemEx.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\UnityEngine.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\obj\Debug\CrestAntiDamage.csproj.AssemblyReference.cache
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\obj\Debug\CrestAntiDamage.csproj.CoreCompileInputs.cache
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\obj\Debug\CrestAntiDamage.csproj.CopyComplete
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\obj\Debug\CrestAntiDamage.dll
+C:\Users\caspi\source\repos\CrestAntiDamage\CrestAntiDamage\obj\Debug\CrestAntiDamage.pdb
